@@ -1,0 +1,10 @@
+ALGORITMO: sumar_n_primeros_while
+ENTRADAS: n 
+SALIDA: suma
+suma = 0
+contador = 1 
+MIENTRAS contador ≤ n:  
+suma = suma + contador  
+contador = contador + 1
+FIN MIENTRAS
+DEVOLVER: suma
